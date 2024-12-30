@@ -37,7 +37,7 @@ Welcome to my GitHub profile! My name is Nana Kwame Opoku, and I am currently pu
 - 💼 **Professional Interests**: Data Science in Finance, Climate Analytics, Sports Analytics, and Equity in Data.
 - 🌟 **Fun Fact**: I can name the capital city of every country in Africa! 🌍
 - 📫 **How to Reach Me**:
-  - [LinkedIn](https://www.linkedin.com/in/nana-kwame-poku)
+  - [LinkedIn](https://www.linkedin.com/in/nana-kwame-opoku)
   - [Email](nopoku1@babson.edu)
   
 Feel free to explore my repositories and connect with me to collaborate on exciting projects. Let’s build something impactful together!
