@@ -26,7 +26,7 @@ Welcome to my GitHub profile! My name is Nana Kwame Opoku, and I am currently pu
 
 - 📊 **House Price Prediction**: Created predictive models using R, leveraging dummy variables and regression techniques.
 - 🌍 **Geospatial Analysis**: Conducted exploratory data analysis in Tableau for business questions with geospatial components.
-- 🚲 **Boston Blue Bikes Business Analysis:** Analyzed Blue Bikes ridership data in Boston by creating an interactive Tableau dashboard showcasing top stations by location, total rides, and hourly trends, providing actionable insights for optimizing bike-sharing operations.
+- 🚲 **Boston Blue Bikes Business Analysis:** Analyzed Blue Bikes ridership data by creating an interactive Tableau dashboard showcasing top stations by location, total rides, and hourly trends, providing actionable insights for optimizing bike-sharing operations.
 - 💻 **Programming Capstone Project**: Performed a comprehensive analysis of student disciplinary trends in Delaware, leveraging Python and ML to uncover demographic disparities. Achieved distinction for delivering impactful insights and predictive models.
 - 🌱 **Climate Analytics**: Worked on climate-focused projects to align business practices with Net Zero goals, tailored for companies like Ticketmaster.
 - 📈 **AdventureWorks SQL Case Study**: Delivered insights into sales territory performance, comparing revenues and trends across regions.
